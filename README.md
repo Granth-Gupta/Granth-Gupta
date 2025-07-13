@@ -31,6 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Blender_logo_no_text.svg" alt="Blender" width="40" height="40"/>
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Blender_logo_no_text.svg" alt="Blender" width="40" height="40"/> -->
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
 </p>

@@ -12,14 +12,6 @@
 - Building AI Agents with LangChain, LangGraph
 - Scalable Backend Systems with FastAPI
 
----
-
-### 📫 Reach Me At
-- Email: **granth.anurag@gmail.com**
-- GitHub: [@granth-gupta](https://github.com/granth-gupta)
-
----
-
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
